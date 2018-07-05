@@ -13,7 +13,7 @@ description:
 category: project
 author: davidpblcrd
 externalLink: false
-permalink: /IncidenciasEuskadi
+permalink: /IncidenciasEuskadi/
 ---
 [![contribute](https://img.shields.io/badge/GitHub-contribute-red.svg)](https://github.com/davidpob99/webextensions/)
 
@@ -36,7 +36,7 @@ Aplicación web que permite conocer las incidencias en la red de tráfico del Pa
 Esta aplicación usa datos obtenidos del portal de [datos abiertos del Gobierno Vasco](http://opendata.euskadi.eus/).
 
 
-
+<!--
 ### ¿Qué son los datos abiertos?
 
 Son aquellos datos que cualquiera es libre de utilizar, reutilizar y redistribuir, con el único límite, en su caso, del requisito de atribución de su fuente o reconocimiento de su autoría.
@@ -47,5 +47,5 @@ La apertura de datos del sector público permite que cualquier persona u organiz
 
 Por lo tanto, tiene un considerable potencial económico y además favorece la transparencia, participación y colaboración ciudadana, necesarios para contar con un gobierno más abierto.
 
-<center><a href="http://datos.gob.es"><img src="/assets/images/p_logo_rgb_web.jpg" width="200px"></a></center>
+<center><a href="http://datos.gob.es"><img src="/assets/images/p_logo_rgb_web.jpg" width="200px"></a></center>-->
 

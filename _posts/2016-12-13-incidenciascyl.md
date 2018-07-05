@@ -13,7 +13,7 @@ description:
 category: project
 author: davidpblcrd
 externalLink: false
-permalink: /IncidenciasCyL
+permalink: /IncidenciasCyL/
 ---
 
 [![contribute](https://img.shields.io/badge/GitHub-contribute-red.svg)](https://github.com/davidpob99/IncidenciasCyL/)
@@ -23,7 +23,7 @@ permalink: /IncidenciasCyL
 Esta aplicación usa datos obtenidos del portal de [datos abiertos de la Junta de Castilla y León](http://datosabiertos.jcyl.es).
 
 
-
+<!--
 ### ¿Qué son los datos abiertos?
 
 Son aquellos datos que cualquiera es libre de utilizar, reutilizar y redistribuir, con el único límite, en su caso, del requisito de atribución de su fuente o reconocimiento de su autoría.
@@ -34,7 +34,7 @@ La apertura de datos del sector público permite que cualquier persona u organiz
 
 Por lo tanto, tiene un considerable potencial económico y además favorece la transparencia, participación y colaboración ciudadana, necesarios para contar con un gobierno más abierto.
 
-<center><a href="http://datos.gob.es"><img src="/assets/images/p_logo_rgb_web.jpg" width="200px"></a></center>
+<center><a href="http://datos.gob.es"><img src="/assets/images/p_logo_rgb_web.jpg" width="200px"></a></center>-->
 
 ## Open Source
 

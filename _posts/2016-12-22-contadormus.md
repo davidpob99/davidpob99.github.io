@@ -13,7 +13,7 @@ description:
 category: project
 author: davidpblcrd
 externalLink: false
-permalink: /ContadorMus
+permalink: /ContadorMus/
 ---
 
 [![contribute](https://img.shields.io/badge/GitHub-contribute-red.svg)](https://github.com/davidpob99/ContadorMus/)
