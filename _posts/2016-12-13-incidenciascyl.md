@@ -41,7 +41,6 @@ Por lo tanto, tiene un considerable potencial económico y además favorece la t
 Este programa es libre: puede redistribuirlo y/o modificarlo bajo los términos de la [GNU General Public License (GPL),versión 3,](https://www.gnu.org/licenses/gpl-3.0.html) tal y como está publicada en la [Free Software Foundation](http://www.fsf.org/).
 
 
-
 ## Descargar
 
 ### Android
@@ -54,7 +53,7 @@ Este programa es libre: puede redistribuirlo y/o modificarlo bajo los términos 
 
 ### Mozilla Firefox
 
-<center><a href='https://addons.mozilla.org/es/firefox/addon/incidenciascyl/'><img width='200px' alt='Disponible en Mozilla Firefox' src='https://assets.mozilla.org/view/0002/p_206.jpg?t=1502468880465'/></a></center>
+<center><a href='https://addons.mozilla.org/es/firefox/addon/incidenciascyl/'><img width='80px' alt='Disponible en Mozilla Firefox' src='https://blog.mozilla.org/firefox/files/2017/12/firefox-logo-300x310.png'/></a></center>
 
 ### Linux, Windows y MacOS
 
@@ -63,3 +62,11 @@ Este programa es libre: puede redistribuirlo y/o modificarlo bajo los términos 
 ### Terminal
 
 Ver [incidenciascyl-cli](https://github.com/davidpob99/incidenciascyl-cli)
+
+### Usar desde el navegador
+
+<center><a href='{{ site.url }}/app/IncidenciasCyL'><img width='80px' alt='Web' src='https://material.io/tools/icons/static/icons/baseline-language-24px.svg'/></a></center>
+
+### Descargar datos
+
+Puede descargar los datos que usa la aplicación georreferenciados desde https://incidenciascyl.azurewebsites.net en formato JSON

@@ -25,11 +25,11 @@ Aplicación web que permite conocer las incidencias en la red de tráfico del Pa
 
 ### Mozilla Firefox
 
-<center><a href='https://addons.mozilla.org/es/firefox/addon/incidenciaseuskadi/'><img width='200px' alt='Disponible en Mozilla Firefox' src='https://assets.mozilla.org/view/0002/p_206.jpg?t=1502468880465'/></a></center>
+<center><a href='https://addons.mozilla.org/es/firefox/addon/incidenciaseuskadi/'><img width='80px' alt='Disponible en Mozilla Firefox' src='https://blog.mozilla.org/firefox/files/2017/12/firefox-logo-300x310.png'/></a></center>
 
 ## Usar desde el navegador
 
-<center><a href='{{ site.url }}/app/IncidenciasEuskadi'><img width='170px' alt='Web' src='{{ site.url }}/images/incidenciaseuskadi/language.png'/></a></center>
+<center><a href='{{ site.url }}/app/IncidenciasEuskadi'><img width='80px' alt='Web' src='https://material.io/tools/icons/static/icons/baseline-language-24px.svg'/></a></center>
 
 ## Datos abiertos
 
