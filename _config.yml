@@ -22,7 +22,7 @@ url: https://davidpob99.github.io
 permalink: /:title/
 
 # To enable google analytics, supply your token below
-# analytics-google: 'UA-88563869-9 '
+analytics-google: ' UA-88563869-9'
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
