@@ -5,22 +5,48 @@
 %}{% assign showHeader = true %}{% endif %}
 
 {% if showHeader == true %}
-    <header class="header-home {% if site.animation %}animated{% endif %}">
-        {% if site.about %}
-            <a class="link" href="{{ site.url }}/about">
-                <img class="selfie" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
-            </a>
-        {% else %}
-            <span class="link">
-                <img class="selfie" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
-            </span>
-        {% endif %}
+<header class="header-home {% if site.animation %}animated{% endif %}">
+    {% if site.about %}
+    <a class="link" href="{{ site.url }}/about">
+        <img class="selfie" alt="{{ site.name }}"
+            src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
+    </a>
+    {% else %}
+    <span class="link">
+        <img class="selfie" alt="{{ site.name }}"
+            src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
+    </span>
+    {% endif %}
 
-        <h1 class="title">{{ site.name }}</h1>
-        <h2 class="description">{{ site.bio }}</h2>
+    <h1 class="title">{{ site.name }}</h1>
+    <h2 class="description">{{ site.bio }}</h2>
 
-        {% include social-links.html %}
-    </header>
+    {% include social-links.html %}
+    <link rel="stylesheet" type="text/css"
+        href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+    <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+    <script>
+        window.addEventListener("load", function () {
+            window.cookieconsent.initialise({
+                "palette": {
+                    "popup": {
+                        "background": "#000000"
+                    },
+                    "button": {
+                        "background": "#FDFDFD"
+                    }
+                },
+                "theme": "classic",
+                "content": {
+                    "message": "Esta página web utiliza cookies para que usted tenga la mejor experiencia de usuario. Si continúa navegando asumimos que está aceptando la política de privacidad",
+                    "dismiss": "Aceptar",
+                    "link": "Leer más",
+                    "href": "http://davidpob99.github.io/politica-privacidad/index.html"
+                }
+            })
+        });
+    </script>
+</header>
 {% endif %}
 
 {% include nav.html %}
