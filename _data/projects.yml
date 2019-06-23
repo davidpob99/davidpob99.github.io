@@ -29,7 +29,7 @@ projects:
     img: https://addons.cdn.mozilla.net/user-media/addon_icons/841/841282-64.png?modified=1560367692
     github: https://github.com/davidpob99/PolenCyL
     google-play: https://play.google.com/store/apps/details?id=es.davidpob99.PolenCyL
-    windows: https://www.microsoft.com/store/apps/9pfkrf7gdc2l
+    # windows: https://www.microsoft.com/store/apps/9pfkrf7gdc2l
     addon: https://addons.mozilla.org/es/firefox/addon/polencyl/
   - name: Contador de Pocha
     date: 2016-12-22
@@ -48,7 +48,7 @@ projects:
     img: https://addons.cdn.mozilla.net/user-media/addon_icons/844/844075-64.png?modified=1560367681
     github: https://github.com/davidpob99/IncidenciasCyL
     google-play: https://play.google.com/store/apps/details?id=es.davidpob99.IncidenciasCyL
-    windows: https://www.microsoft.com/store/apps/9nblggh40gfz
+    # windows: https://www.microsoft.com/store/apps/9nblggh40gfz
     addon: https://addons.mozilla.org/es/firefox/addon/incidenciascyl/
     terminal: https://github.com/davidpob99/incidenciascyl-cli
     web: /app/IncidenciasCyL
