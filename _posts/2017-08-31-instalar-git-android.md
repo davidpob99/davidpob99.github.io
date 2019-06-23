@@ -1,13 +1,13 @@
 ---
-title: "Instalar git en Android"
+title: Instalar git en Android
 layout: post
 published: true
-date: 2017-08-31
-image: 
+date: 2017-08-31T00:00:00.000Z
+image: null
 headerImage: true
 tag:
-- Android
-- terminal
+  - Android
+  - terminal
 category: blog
 author: davidpblcrd
 description: Instalar git en Android
@@ -36,11 +36,9 @@ Muchos de los programas del mundo *open-source* se han desarrollado bajo este m�
 
 Android, propiedad de Google y sistema operativo móvil (que seguramente todos conocéis), es el sistema para móviles más usado en el mundo, con aproximadamente el 87.5% de cuota de mercado (según datos de 2016) y además basado en Linux. 
 
-![cuota de mercado android](https://i.blogs.es/aaedf3/gsmarena_001/1366_2000.png)
+<img src="https://i.blogs.es/aaedf3/gsmarena_001/1366_2000.png" width="100%"/>
 
 Esto es importante dado que como el núcleo de este sistema es Linux, podemos usar diversos comandos propios. En el momento de esta publicación,  la versión estable de Android es la 7.1.1 (Nougat) y usa un núcleo Linux 3.18.14.
-
-
 
 ## Termux
 
@@ -53,4 +51,4 @@ Para acceder al almacenamiento del dispositivo y que las demás apps puedan acce
 
 Ya es posible instalar git, con el mismo comando que en Debian: `$ apt install git` , y ya podremos disfrutar de todas las funcionalidades del comando `git`.
 
-<img src="{{ site.url }}/assets/images/2017-08-31/1.png" width="500">
+<img src="{{ site.url }}/assets/images/2017-08-31/1.png" width="100%">
