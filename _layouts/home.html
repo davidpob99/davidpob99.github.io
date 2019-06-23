@@ -1,0 +1,55 @@
+---
+layout: default
+---
+{{ content }}
+<div class="row">
+  <div class="column">
+    <h1>Blog</h1>
+    {% assign contentwonl = content | strip_newlines %} {% unless contentwonl == ""  %} <br /> {% endunless %} <!-- add line break if there is any content -->
+
+    {%- if site.posts.size > 0 -%}
+      <ul>
+        {%- for post in site.posts -%}
+        <li>
+          {%- assign date_format = "%Y-%m-%d" -%}
+          [ {{ post.date | date: date_format }} ] <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+        </li>
+        {%- endfor -%}
+      </ul>
+    {%- endif -%}
+  </div>
+  <div class="column">
+    <h2>Proyectos</h2>
+    {% for project in site.data.projects.projects %}
+    <div>
+        <img style="vertical-align: middle;" width=25 src="{{ project.img }}"/>
+        <span>- [ {{ project.date | date: "%Y" }} ] {{ project.name }}</span>
+
+        <span style="padding-left:1em;"></span>
+        {% if project.github %}
+        <a href="{{ project.github }}"><i class="fab fa-github"></i></a>
+        {% endif %}
+
+        {% if project.google-play %}
+        <a href="{{ project.google-play }}"><i class="fab fa-google-play"></i></a>
+        {% endif %}
+
+        {% if project.windows %}
+        <a href="{{ project.windows }}"><i class="fab fa-windows"></i></a>
+        {% endif %}
+
+        {% if project.addon %}
+        <a href="{{ project.addon }}"><i class="fab fa-firefox"></i></a>
+        {% endif %}
+
+        {% if project.web %}
+        <a href="{{ project.web }}"><i class="fas fa-globe"></i></a>
+        {% endif %}
+
+        {% if project.terminal %}
+        <a href="{{ project.terminal }}"><i class="fas fa-terminal"></i></a>
+        {% endif %}
+    </div>
+    {% endfor %}
+  </div>
+</div>

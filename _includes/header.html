@@ -1,52 +1,14 @@
-{% if page.title == "Home"
-   or page.title == "Blog"
-   or page.title == "Projects"
-   or page.title == "Tags"
-%}{% assign showHeader = true %}{% endif %}
-
-{% if showHeader == true %}
-<header class="header-home {% if site.animation %}animated{% endif %}">
-    {% if site.about %}
-    <a class="link" href="{{ site.url }}/about">
-        <img class="selfie" alt="{{ site.name }}"
-            src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
-    </a>
-    {% else %}
-    <span class="link">
-        <img class="selfie" alt="{{ site.name }}"
-            src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
-    </span>
-    {% endif %}
-
-    <h1 class="title">{{ site.name }}</h1>
-    <h2 class="description">{{ site.bio }}</h2>
-
-    {% include social-links.html %}
-    <link rel="stylesheet" type="text/css"
-        href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
-    <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
-    <script>
-        window.addEventListener("load", function () {
-            window.cookieconsent.initialise({
-                "palette": {
-                    "popup": {
-                        "background": "#000000"
-                    },
-                    "button": {
-                        "background": "#FDFDFD"
-                    }
-                },
-                "theme": "classic",
-                "content": {
-                    "message": "Esta página web utiliza cookies para que usted tenga la mejor experiencia de usuario. Si continúa navegando asumimos que está aceptando la política de privacidad",
-                    "dismiss": "Aceptar",
-                    "link": "Leer más",
-                    "href": "http://davidpob99.github.io/politica-privacidad/index.html"
-                }
-            })
-        });
-    </script>
+{%- assign page_paths = site.header_pages | default: default_paths -%}
+<header>
+  <h1>{{ site.title }}</h1>
+  <div class="menu">
+    <ul>
+      {%- for path in page_paths -%}
+        {%- assign my_page = site.pages | where: "path", path | first -%}
+        {%- if my_page.title -%}
+        <li><a href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a></li>
+        {%- endif -%}
+      {%- endfor -%}
+    </ul>
+  </div>
 </header>
-{% endif %}
-
-{% include nav.html %}

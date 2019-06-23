@@ -1,0 +1,54 @@
+projects:
+  - name: NaturCyL
+    date: 2019-02-09
+    img: https://lh3.googleusercontent.com/xkLJVYIHiOBhjRQAwYJw7-IIQgDLCoclrMxiopc67VjZQfgBSfTN_79w28kE9SOvH-M=s180
+    github: https://github.com/davidpob99/NaturCyL/
+    google-play: https://play.google.com/store/apps/details?id=es.davidpob99.naturcyl
+  - name: aemet-cli
+    date: 2017-09-14
+    img: 
+    github: https://github.com/davidpob99/aemet-cli
+  - name: o-calendar
+    date: 2017-09-09
+    img: https://addons.cdn.mozilla.net/user-media/addon_icons/848/848336-64.png?modified=1560367656
+    addon: https://addons.mozilla.org/firefox/addon/o-calendar
+  - name: IncidenciasEuskadi
+    date: 2017-08-21
+    img: https://addons.cdn.mozilla.net/user-media/addon_icons/845/845347-64.png?modified=1560367670
+    addon: https://addons.mozilla.org/es/firefox/addon/incidenciaseuskadi/
+    web: /app/IncidenciasEuskadi
+  - name: Google Analytics Blocker
+    date: 2017-08-20
+    img: https://addons.cdn.mozilla.net/user-media/addon_icons/845/845851-64.png?modified=1560367624
+    addon: https://addons.mozilla.org/firefox/addon/google-analytics-blocker/
+  - name: nasa-wallpaper
+    date: 2017-08-06
+    github: https://github.com/davidpob99/nasa-wallpaper
+  - name: PolenCyL
+    date: 2016-12-23
+    img: https://addons.cdn.mozilla.net/user-media/addon_icons/841/841282-64.png?modified=1560367692
+    github: https://github.com/davidpob99/PolenCyL
+    google-play: https://play.google.com/store/apps/details?id=es.davidpob99.PolenCyL
+    windows: https://www.microsoft.com/store/apps/9pfkrf7gdc2l
+    addon: https://addons.mozilla.org/es/firefox/addon/polencyl/
+  - name: Contador de Pocha
+    date: 2016-12-22
+    img: https://lh3.googleusercontent.com/4fMfcjORBR-YYBR9F4e7pbLgHdS39q0GRJIdshgxsFPWBKo20X1V4j1I0nz5GwG5gEY=s180
+    github: https://github.com/davidpob99/ContadorPocha
+    # google-play: https://play.google.com/store/apps/details?id=es.davidpob99.ContadorPocha
+    windows: https://www.microsoft.com/store/apps/9NBLGGH51WLV
+  - name: Contador de Mus
+    date: 2016-12-22
+    img: https://lh3.googleusercontent.com/sktsVQol3-CJNlEQULnwNq_GoGKMbwlhmTDlU2ddLle9gd0Lz4vMJ_RqFsUEj-REKWQ=s180
+    github: https://github.com/davidpob99/ContadorMus
+    google-play: https://play.google.com/store/apps/details?id=es.davidpob99.ContadorMus
+    windows: https://www.microsoft.com/store/apps/9NBLGGH51841
+  - name: IncidenciasCyL
+    date: 2016-12-13
+    img: https://addons.cdn.mozilla.net/user-media/addon_icons/844/844075-64.png?modified=1560367681
+    github: https://github.com/davidpob99/IncidenciasCyL
+    google-play: https://play.google.com/store/apps/details?id=es.davidpob99.IncidenciasCyL
+    windows: https://www.microsoft.com/store/apps/9nblggh40gfz
+    addon: https://addons.mozilla.org/es/firefox/addon/incidenciascyl/
+    terminal: https://github.com/davidpob99/incidenciascyl-cli
+    web: /app/IncidenciasCyL

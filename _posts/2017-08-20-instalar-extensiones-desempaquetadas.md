@@ -33,7 +33,7 @@ Para instalar una extensión desde su código fuente (el cual necesitaremos tene
 
 1.En la barra de dirección, escribir `about:debugging`, mostrará esta ventana:
 
-![]({{ site.url }}/assets/images/2017-08-20/mozilla.png)
+<img src="{{ site.url }}/assets/images/2017-08-20/mozilla.png" width="100%"/>
 
 2.Pinchar en *Cargar complemento temporal*, buscar el archivo `manifest.json` del complemento y este ya se cargará automáticamente. 
 
@@ -43,7 +43,7 @@ Este navegador tiene el problema de que si cerramos el mismo, los complementos s
 
 1.En la barra de dirección, escribir `chrome://extensions/` o ir al menu lateral > Más herramientas > Extensiones, se mostrará la siguiente ventana:
 
-![]({{ site.url }}/assets/images/2017-08-20/chrome.png)
+<img src="{{ site.url }}/assets/images/2017-08-20/chrome.png" width="100%"/>
 
 2.Marcar la casilla *Modo de desarrollador*. Se desplegará una barra nueva.
 3.Seleccionar *Cargar extensión descomprimida...* y seleccionar la carpeta donde se encuentra la extensión.
@@ -54,7 +54,7 @@ El proceso es prácticamente similar a Chrome:
 
 1.En la barra de dirección, escribir `opera://startpage/extensions`: 
 
-![]({{ site.url }}/assets/images/2017-08-20/opera.png)
+<img src="{{ site.url }}/assets/images/2017-08-20/opera.png" width="100%"/>
 
 2.Marcar la casilla *Modo de autor*. Se desplegará una barra nueva.
 3.Seleccionar *Cargar extensión descomprimida...* y seleccionar la carpeta donde se encuentra la extensión.
@@ -65,13 +65,13 @@ El proceso es prácticamente similar a Chrome:
 
 1.En la barra de dirección, escribir `about:flags`: 
 
-![]({{ site.url }}/assets/images/2017-08-20/edge1.png)
+<img src="{{ site.url }}/assets/images/2017-08-20/edge1.png" width="100%"/>
 
 2.Marcar la casilla *Habilitar características de desarrollador de extensiones*.
 3.Reiniciar el navegador.
 4.Desplegar el Menú lateral > Extensiones > Cargar extensión.
 
-![]({{ site.url }}/assets/images/2017-08-20/edge2.png)
+<img src="{{ site.url }}/assets/images/2017-08-20/edge2.png" width="100%"/>
 
 ### Extensiones de ejemplo
 
