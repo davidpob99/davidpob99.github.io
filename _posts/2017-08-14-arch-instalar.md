@@ -1,12 +1,12 @@
 ---
-title: "Instalar ArchLinux"
+title: Instalar ArchLinux
 layout: post
 published: true
-date: 2017-08-14
+date: {}
 headerImage: true
 tag:
-- linux
-- tutorial
+  - linux
+  - tutorial
 category: blog
 author: davidpblcrd
 description: Instalar ArchLinux con LXDE
@@ -54,9 +54,7 @@ Reiniciar el ordenador con el USB insertado e iniciar con él cuando el odenador
 
 Ejecutar la primera opción ("Boot Arch Linux")
 
-<figure>
-	<a href="{{ site.url }}/assets/images/2017-08-14/1.png"><img src="{{ site.url }}/assets/images/2017-08-14/1.png"></a>	
-</figure>
+<img src="{{ site.url }}/assets/images/2017-08-14/1.png" width="100%"/>
 
 Cargamos el teclado en español: `loadkeys es`
 
@@ -70,9 +68,7 @@ En este aspecto hay varias posibilidades, como separar las carpetas /home /var /
 
 Buscamos el disco duro dónde instalar con el comando `fdisk -l`
 
-<figure>
-	<a href="{{ site.url }}/assets/images/2017-08-14/2.png"><img src="{{ site.url }}/assets/images/2017-08-14/2.png"></a>	
-</figure>
+<img src="{{ site.url }}/assets/images/2017-08-14/2.png" width="100%"/>
 
 En mi caso el disco a instalar es /dev/sda.
 
@@ -123,9 +119,7 @@ Para configurar la zona horaria, creamos un enlace simbólico según la región 
 
 Para configurar el idioma escribimos `nano /etc/locale.gen` y descomentamos (quitar #) en el idioma que deseemos, en la opción UTF-8, en el caso del castellano descomentar `es_ES.UTF-8`:
 
-<figure>
-	<a href="{{ site.url }}/assets/images/2017-08-14/3.png"><img src="{{ site.url }}/assets/images/2017-08-14/3.png"></a>	
-</figure>
+<img src="{{ site.url }}/assets/images/2017-08-14/3.png" width="100%"/>
 
 Además, hay que editar el archivo **locale.conf** y añadir el idioma seleccionado, para ello: `echo 'LANG=es_ES.UTF-8' >> /etc/locale.conf`
 
