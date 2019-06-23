@@ -2,7 +2,7 @@
 title: Instalar ArchLinux
 layout: post
 published: true
-date: {}
+date: 2017-08-14T00:00:00.000Z
 headerImage: true
 tag:
   - linux
