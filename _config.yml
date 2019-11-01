@@ -6,7 +6,7 @@ header_pages:
   - index.md
   - about.md
 
-google_analytics: UA-88563869-9
+#google_analytics: UA-88563869-9
 
 twitter: davidpblcrd
 github: davidpob99
