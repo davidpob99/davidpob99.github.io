@@ -6,10 +6,11 @@ header_pages:
   - index.md
   - about.md
 
-#google_analytics: UA-88563869-9
+google_analytics: UA-88563869-9
 
 twitter: davidpblcrd
 github: davidpob99
+linkedin: davidpoblacion
 paypal: davidpoblacion
 email: davidpblcrd [ arroba ] protonmail [ punto ] com
 bitcoin: 15VsGWJdXf4KDEAaCofvgHezp2QnYh9mV3
