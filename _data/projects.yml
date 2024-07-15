@@ -24,14 +24,14 @@ projects:
   #   web: /app/IncidenciasEuskadi
   - name: Google Analytics Blocker
     date: 2017-08-20
-    img: https://addons.cdn.mozilla.net/user-media/addon_icons/845/845851-64.png?modified=1560367624
+    img: https://addons.mozilla.org/user-media/addon_icons/845/845851-64.png?modified=1648138451
     addon: https://addons.mozilla.org/firefox/addon/google-analytics-blocker/
   - name: nasa-wallpaper
     date: 2017-08-06
     github: https://github.com/davidpob99/nasa-wallpaper
   - name: PolenCyL
     date: 2016-12-23
-    img: https://addons.cdn.mozilla.net/user-media/addon_icons/841/841282-64.png?modified=1560367692
+    img: https://addons.mozilla.org/user-media/addon_icons/841/841282-64.png?modified=1648138451
     # github: https://github.com/davidpob99/PolenCyL
     google-play: https://play.google.com/store/apps/details?id=es.davidpob99.PolenCyL
     # windows: https://www.microsoft.com/store/apps/9pfkrf7gdc2l
@@ -50,10 +50,10 @@ projects:
     windows: https://www.microsoft.com/store/apps/9NBLGGH51841
   - name: IncidenciasCyL
     date: 2016-12-13
-    img: https://addons.cdn.mozilla.net/user-media/addon_icons/844/844075-64.png?modified=1560367681
+    img: https://addons.mozilla.org/user-media/addon_icons/844/844075-64.png?modified=1648138451
     github: https://github.com/davidpob99/IncidenciasCyL
-    google-play: https://play.google.com/store/apps/details?id=es.davidpob99.IncidenciasCyL
+    # google-play: https://play.google.com/store/apps/details?id=es.davidpob99.IncidenciasCyL
     # windows: https://www.microsoft.com/store/apps/9nblggh40gfz
-    # addon: https://addons.mozilla.org/es/firefox/addon/incidenciascyl/
+    addon: https://addons.mozilla.org/es/firefox/addon/incidenciascyl/
     terminal: https://github.com/davidpob99/incidenciascyl-cli
     # web: /app/IncidenciasCyL
