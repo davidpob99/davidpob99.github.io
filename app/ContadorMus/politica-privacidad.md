@@ -1,71 +1,80 @@
-**Privacy Policy**
+---
+layout: page
+permalink: app/ContadorMus/politica-privacidad.html
+title: Política de privacidad
+tags: []
+chart: true
+published: true
+---
 
-This privacy policy is applicable to the Contador de Mus app (hereinafter referred to as "Application") for mobile devices, which was developed by David Población (hereinafter referred to as "Service Provider") as a an Open Source service. This service is provided "AS IS".
+**Política de Privacidad**
 
-**What information does the Application obtain and how is it used?**  
-**User Provided Information**
+Esta política de privacidad es aplicable a la aplicación Contador de Mus (en adelante, "Aplicación") para dispositivos móviles, que fue desarrollada por David Población (en adelante, "Proveedor de Servicios") como un servicio de código abierto. Este servicio se proporciona "TAL COMO ESTÁ".
 
-The Application acquires the information you supply when you download and register the Application. Registration with the Service Provider is not mandatory. However, bear in mind that you might not be able to utilize some of the features offered by the Application unless you register with them.
+**¿Qué información obtiene la Aplicación y cómo se utiliza?**  
+**Información proporcionada por el usuario**
 
-The Service Provider may also use the information you provided them to contact you from time to time to provide you with important information, required notices and marketing promotions.
+La Aplicación adquiere la información que proporcionas cuando descargas y registras la Aplicación. No es obligatorio registrarse con el Proveedor de Servicios. Sin embargo, ten en cuenta que es posible que no puedas utilizar algunas de las funciones ofrecidas por la Aplicación a menos que te registres con ellos.
 
-**Automatically Collected Information**
+El Proveedor de Servicios también puede usar la información que les proporcionaste para contactarte de vez en cuando y proporcionarte información importante, avisos necesarios y promociones de marketing.
 
-In addition, the Application may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile devices unique device ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browsers you use, and information about the way you use the Application.
+**Información recopilada automáticamente**
 
-**Does the Application collect precise real time location information of the device?**
+Además, la Aplicación puede recopilar cierta información automáticamente, incluyendo, pero no limitado a, el tipo de dispositivo móvil que utilizas, el ID único de tu dispositivo móvil, la dirección IP de tu dispositivo móvil, tu sistema operativo móvil, el tipo de navegador de Internet móvil que utilizas y la información sobre cómo utilizas la Aplicación.
 
-This Application does not gather precise information about the location of your mobile device.
+**¿La Aplicación recoge información precisa en tiempo real sobre la ubicación del dispositivo?**
 
-This Application collects your device's location, which helps the Service Provider determine your approximate geographical location and make use of in below ways:
+Esta Aplicación no recopila información precisa sobre la ubicación de tu dispositivo móvil.
 
-*   Geolocation Services: The Service Provider utilizes location data to provide features such as personalized content, relevant recommendations, and location-based services.
-*   Analytics and Improvements: Aggregated and anonymized location data helps the Service Provider to analyze user behavior, identify trends, and improve the overall performance and functionality of the Application.
-*   Third-Party Services: Periodically, the Service Provider may transmit anonymized location data to external services. These services assist them in enhancing the Application and optimizing their offerings.
+Esta Aplicación recoge la ubicación de tu dispositivo, lo que ayuda al Proveedor de Servicios a determinar tu ubicación geográfica aproximada y se utiliza de las siguientes maneras:
 
-**Do third parties see and/or have access to information obtained by the Application?**
+*   Servicios de geolocalización: El Proveedor de Servicios utiliza datos de ubicación para proporcionar características como contenido personalizado, recomendaciones relevantes y servicios basados en la ubicación.
+*   Análisis y mejoras: Datos de ubicación agregados y anonimizados ayudan al Proveedor de Servicios a analizar el comportamiento del usuario, identificar tendencias y mejorar el rendimiento y la funcionalidad general de la Aplicación.
+*   Servicios de terceros: Periódicamente, el Proveedor de Servicios puede transmitir datos de ubicación anonimizados a servicios externos. Estos servicios les ayudan a mejorar la Aplicación y optimizar sus ofertas.
 
-Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
+**¿Ven y/o tienen acceso terceros a la información obtenida por la Aplicación?**
 
-Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
+Solo se transmiten periódicamente datos agregados y anonimizados a servicios externos para ayudar al Proveedor de Servicios a mejorar la Aplicación y su servicio. El Proveedor de Servicios puede compartir tu información con terceros de las maneras descritas en esta declaración de privacidad.
+
+Ten en cuenta que la Aplicación utiliza servicios de terceros que tienen su propia Política de Privacidad sobre el manejo de datos. A continuación se encuentran los enlaces a la Política de Privacidad de los proveedores de servicios de terceros utilizados por la Aplicación:
 
 *   [Google Play Services](https://www.google.com/policies/privacy/)
 *   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 
-The Service Provider may disclose User Provided and Automatically Collected Information:
+El Proveedor de Servicios puede divulgar la Información Proporcionada por el Usuario y la Información Recopilada Automáticamente:
 
-*   as required by law, such as to comply with a subpoena, or similar legal process;
-*   when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
-*   with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
+*   según lo requiera la ley, como para cumplir con una citación u otro proceso legal similar;
+*   cuando crean de buena fe que la divulgación es necesaria para proteger sus derechos, proteger tu seguridad o la seguridad de otros, investigar fraudes o responder a una solicitud del gobierno;
+*   con sus proveedores de servicios de confianza que trabajan en su nombre, no tienen un uso independiente de la información que les divulgamos y han acordado adherirse a las reglas establecidas en esta declaración de privacidad.
 
-**What are my opt-out rights?**
+**¿Cuáles son mis derechos de exclusión?**
 
-You can halt all collection of information by the Application easily by uninstalling the Application. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+Puedes detener toda recolección de información por parte de la Aplicación fácilmente desinstalándola. Puedes utilizar los procesos estándar de desinstalación que puedan estar disponibles como parte de tu dispositivo móvil o a través del mercado o red de aplicaciones móviles.
 
-**Data Retention Policy, Managing Your Information**
+**Política de Retención de Datos, Gestión de tu Información**
 
-The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. The Service Provider will retain Automatically Collected information for up to 24 months and thereafter may store it in aggregate. If you'd like the Service Provider to delete User Provided Data that you have provided via the Application, please contact them at davidpblcrdatprotonmaildotcom and we will respond in a reasonable time. Please note that some or all of the User Provided Data may be required in order for the Application to function properly.
+El Proveedor de Servicios retendrá los datos proporcionados por el usuario mientras uses la Aplicación y durante un tiempo razonable después. El Proveedor de Servicios retendrá la información recopilada automáticamente durante hasta 24 meses y, posteriormente, puede almacenarla de forma agregada. Si deseas que el Proveedor de Servicios elimine los Datos Proporcionados por el Usuario que has proporcionado a través de la Aplicación, por favor contáctalos en davidpblcrdatprotonmaildotcom y responderemos en un tiempo razonable. Ten en cuenta que algunos o todos los Datos Proporcionados por el Usuario pueden ser necesarios para que la Aplicación funcione correctamente.
 
-**Children**
+**Niños**
 
-The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
+El Proveedor de Servicios no utiliza la Aplicación para solicitar conscientemente datos de o hacer marketing a niños menores de 13 años.
 
-The Application does not address anyone under the age of 13\. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. In the case the Service Provider discover that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (davidpblcrdatprotonmaildotcom) so that they will be able to take the necessary actions.
+La Aplicación no está dirigida a nadie menor de 13 años. El Proveedor de Servicios no recopila conscientemente información personal identificable de niños menores de 13 años. En el caso de que el Proveedor de Servicios descubra que un niño menor de 13 años ha proporcionado información personal, eliminarán inmediatamente esta de sus servidores. Si eres un padre o tutor y te das cuenta de que tu hijo ha proporcionado información personal, por favor contacta al Proveedor de Servicios (davidpblcrdatprotonmaildotcom) para que puedan tomar las medidas necesarias.
 
-**Security**
+**Seguridad**
 
-The Service Provider are concerned about safeguarding the confidentiality of your information. The Service Provider provide physical, electronic, and procedural safeguards to protect information we process and maintain. For example, we limit access to this information to authorized employees and contractors who need to know that information in order to operate, develop or improve their Application. Please be aware that, although we endeavor provide reasonable security for information we process and maintain, no security system can prevent all potential security breaches.
+El Proveedor de Servicios está preocupado por proteger la confidencialidad de tu información. El Proveedor de Servicios proporciona salvaguardas físicas, electrónicas y procedimentales para proteger la información que procesan y mantienen. Por ejemplo, limitamos el acceso a esta información a empleados y contratistas autorizados que necesitan saber esa información para operar, desarrollar o mejorar su Aplicación. Ten en cuenta que, aunque nos esforzamos por proporcionar una seguridad razonable para la información que procesamos y mantenemos, ningún sistema de seguridad puede prevenir todas las posibles violaciones de seguridad.
 
-**Changes**
+**Cambios**
 
-This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
+Esta Política de Privacidad puede ser actualizada ocasionalmente por cualquier motivo. El Proveedor de Servicios te notificará sobre cualquier cambio en la Política de Privacidad actualizando esta página con la nueva Política de Privacidad. Se te aconseja consultar esta Política de Privacidad regularmente para cualquier cambio, ya que el uso continuo se considera como aprobación de todos los cambios.
 
-This privacy policy is effective as of 2024-07-15
+Esta política de privacidad es efectiva a partir del 14 de julio de 2024.
 
-**Your Consent**
+**Tu Consentimiento**
 
-By using the Application, you are giving your consent to the Service Provider processing of your information as set forth in this Privacy Policy now and as amended by us. "Processing,” means using cookies on a computer/hand held device or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information.
+Al utilizar la Aplicación, estás dando tu consentimiento al Proveedor de Servicios para el procesamiento de tu información según se establece en esta Política de Privacidad ahora y según sea enmendada por nosotros. "Procesamiento" significa usar cookies en una computadora/dispositivo de mano o usar o tocar información de cualquier manera, incluyendo, pero no limitado a, recopilar, almacenar, eliminar, usar, combinar y divulgar información.
 
-**Contact us**
+**Contáctanos**
 
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at davidpblcrdatprotonmaildotcom.
+Si tienes alguna pregunta sobre la privacidad mientras usas la Aplicación, o tienes preguntas sobre las prácticas, por favor contacta al Proveedor de Servicios por correo electrónico a davidpblcrdatprotonmaildotcom.
