@@ -3,7 +3,7 @@ title: "Acerca de"
 layout: page
 ---
 
-Estudiante de Ingeniería Informática y Estadística.
+Ingeniero en Informática y Graduado en Estadística.
 
 ## Contacto
 <!-- Twitter: http{{ site.twitter}}
